@@ -74,4 +74,11 @@ add_executable(exam_second task_41.cpp
         task_e13.cpp
         task_e14.cpp
         task_e15.cpp
+        task_e16.cpp
+        task_e17.cpp
+        task_e18.cpp
+        task_e19.cpp
+        task_e20.cpp
+        task_e21.cpp
+        task_e22.cpp
 )
