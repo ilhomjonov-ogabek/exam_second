@@ -89,4 +89,10 @@ add_executable(exam_second task_41.cpp
         task_e28.cpp
         task_e29.cpp
         task_e30.cpp
+        task_e31.cpp
+        task_e32.cpp
+        task_e33.cpp
+        task_e34.cpp
+        task_e35.cpp
+        task_e36.cpp
 )
